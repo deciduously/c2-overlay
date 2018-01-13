@@ -3,6 +3,8 @@ ODROID-C2 Gentoo Overlay
 
 # Introduction
 
+I forked this because I'm about to start my own C2 setup, the below readme and all repo contents are the work of [nxmyoz](https://github.com/nxmyoz).
+
 This is a Gentoo overlay for additional tools neccessary for running Gentoo Linux on the Hardkernel ODROID C2 single board computer. More information about the ODROID c2 can be found [here](http://odroid.com/dokuwiki/doku.php?id=en:odroid-c2).
 
 At the moment this overlay provides:
